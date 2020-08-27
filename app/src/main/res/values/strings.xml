@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Album</string>
+    <string name="artist_name">Artist Name: %s</string>
+    <string name="track_name">Track Name: %s</string>
+    <string name="collection_name">Collection Name: %s</string>
+    <string name="collection_price">Collection Price: $ %s</string>
+    <string name="release_date">Release Date: %s</string>
+    <string name="search">Search</string>
+    <string name="close">Close</string>
+</resources>
